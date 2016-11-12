@@ -1,0 +1,8 @@
+[include]
+./
+../ts-shard-cache
+
+[ignore]
+
+[libs]
+decls/
